@@ -6,8 +6,8 @@ To develop a project Student Information System using star UML tools.
 # PROBLEM STATEMENT:
 A Student information system (SIS) is a software application for educational establishments to manage student data. Student information systems provide capabilities for entering student test and other assessment scores, building student schedules, tracking student attendance, and managing many other student-related data needs in a school, college or university.
 
-### DEVELOPED BY : STEPHEN RAJ Y
-### REGISTER NO : 212223230217
+### DEVELOPED BY : Easwari M
+### REGISTER NO : 212223240033
 # UML DIAGRAMS:
 
 ## USE CASE:
